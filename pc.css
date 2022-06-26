@@ -444,7 +444,7 @@
     border-radius: 4%;
     width:395px;
     height: 395px;
-    background-color: rgb(50 50 50);
+    background-color: rgb(192, 189, 154);
     box-shadow: 4px 4px 8px 4px black;
 }
 .contact_items:hover{transform: scale(1.2); z-index: 200;}
@@ -461,14 +461,15 @@
     font-weight: bold;
     box-sizing: border-box;
     text-align: justify;
+    color:#906453;
 }
 #callus i ,#address i ,#businesshours i{
-    color:white;
+    color:rgb(65, 59, 59);
     padding-right: 7px;
 }
 #details div:nth-child(1){
     text-align: center;
-    color:white;
+    color:rgb(182, 67, 67);
     font-style: 3.2vh;
     font-weight: bolder;
 }
